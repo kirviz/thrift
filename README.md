@@ -1,3 +1,8 @@
+Fork
+====
+
+This fork is made in order to have access to version 0.12.0 via cocoapods
+
 Apache Thrift
 =============
 
