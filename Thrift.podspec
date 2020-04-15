@@ -14,5 +14,5 @@ The Apache Thrift software framework, for scalable cross-language services devel
   s.ios.framework = 'CFNetwork'
   s.osx.framework = 'CoreServices'
   s.source        = { :git => "https://github.com/apache/thrift.git", :tag => "0.12.0" }
-  s.source_files  = 'lib/cocoa/src/**/*.{h,m,swift}'
+  s.source_files  = 'lib/cocoa/src/**/*.{h,m}'
 end
